@@ -65,7 +65,7 @@ Dense(10, Softmax)   Dense(4, Linear)
 
 **1. Open in Google Colab**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-N96UajrQYu3nWPcToBanU5CMy0mAm7t#scrollTo=PLo4JmmRmLln)
 
 **2. Run all cells**
 
